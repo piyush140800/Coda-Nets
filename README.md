@@ -32,5 +32,4 @@ This project provides an easy-to-understand implementation of a CNN for educatio
 
 To train and run the model on the CIFAR-10 dataset, run the code-net implementation ipynb file in root folder:
 
-```bash
 
